@@ -1,0 +1,38 @@
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\Hello world_1.exe
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\Hello world_1.deps.json
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\Hello world_1.runtimeconfig.json
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\Hello world_1.runtimeconfig.dev.json
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\Hello world_1.dll
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\Hello world_1.pdb
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\Hello world_1.Views.dll
+D:\Hello_world_Project\Hello world_1\Hello world_1\bin\Debug\netcoreapp3.1\Hello world_1.Views.pdb
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.csproj.AssemblyReference.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.AssemblyInfoInputs.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.AssemblyInfo.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.csproj.CoreCompileInputs.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.MvcApplicationPartsAssemblyInfo.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.RazorAssemblyInfo.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.RazorAssemblyInfo.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\staticwebassets\Hello world_1.StaticWebAssets.Manifest.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\staticwebassets\Hello world_1.StaticWebAssets.xml
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello world_1.styles.css
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.TagHelpers.input.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.TagHelpers.output.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.RazorCoreGenerate.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.RazorTargetAssemblyInfo.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.RazorTargetAssemblyInfo.cs
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.Views.pdb
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.dll
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.pdb
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.genruntimeconfig.cache
+D:\Hello_world_Project\Hello world_1\Hello world_1\obj\Debug\netcoreapp3.1\Hello world_1.csproj.CopyComplete
